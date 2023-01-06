@@ -1,5 +1,5 @@
 package cn.edu.whut.sept.zuul;
-
+//主类挂起函数，调用play开始游戏
 public class Main {
 
     public static void main(String[] args) {
